@@ -1,7 +1,7 @@
 # Portfolio
-[3d Modelling Projects] (https://github.com/Ohogan217/Ohogan2/tree/CAD-Surfacing-and-Modelling-Projects)
-[Coding Projects] (https://github.com/Ohogan217/Ohogan2/tree/Software-Engineering)
-[Biomedical Engineering Thesis Application](https://github.com/Ohogan217/Ohogan2/tree/Software-Engineering)
+[3d Modelling Projects](https://github.com/Ohogan217/Ohogan2/tree/CAD-Surfacing-and-Modelling-Projects/README.md)
+[Coding Projects](https://github.com/Ohogan217/Ohogan2/tree/Software-Engineering/README.md)
+[Biomedical Engineering Thesis Application](https://github.com/Ohogan217/Ohogan2/tree/Software-Engineering/README.md)
 Welcome to my GitHub portfolio! This repository showcases a collection of engineering assignments and personal projects, highlighting my skills in:
 
 Computer Programming: Proficiency in Java, Python, and MATLAB.
